@@ -11,14 +11,14 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 ## Network Architecture(MWCNN and MWRN)
 
 <p align="center">
-    <img src="./figure/1.png" width="100%">
+    <img src="figure/1.png" width="100%">
     <br />    <small>  </small>
 </p>
 
 ## Progressive Training
 
 <p align="center">
-    <img src="./figure/2.png" width="100%">
+    <img src="figure/2.png" width="100%">
     <br />    <small>  </small>
 </p>
 
@@ -27,14 +27,14 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 ### Results on Gray-scale Image Denoising
 
 <p align="center">
-    <img src="./figure/3.png" width="100%">
+    <img src="figure/3.png" width="100%">
     <br />    <small>  </small>
 </p>
 
 ### Results on Color Image Denoising (MWCNN and PT-MWRN)
 
 <p align="center">
-    <img src="./figure/4.png" width="100%">
+    <img src="figure/4.png" width="100%">
     <br />    <small>  </small>
 </p>
 
@@ -44,14 +44,14 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 ### Results on DND dataset
  
 <p align="center">
-    <img src="./figure/5.png" width="50%">
+    <img src="figure/5.png" width="50%">
     <br />    <small>  </small>
 </p>
 
 ### Results on SIDD dataset 
  
 <p align="center">
-    <img src="./figure/6.png" width="50%">
+    <img src="figure/6.png" width="50%">
     <br />    <small>  </small>
 </p>
 
