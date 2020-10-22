@@ -87,11 +87,14 @@ We also will release a PyTorch version of MWRN for Gaussian Noise and Real-world
 ## Citation
 
 @article{cao2020progressive,
+
   title={Progressive Training of Multi-level Wavelet Residual Networks for Image Denoising},
+  
   author={Yali Peng, Yue Cao, Shigang Liu, Jian Yang, and Wangmeng Zuo},
+  
   journal={arXiv preprint},
-  year={2020}
-}
+  
+  year={2020}}
 
 ## References
 
