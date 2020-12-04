@@ -20,34 +20,22 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 
 ### Results on Gray-scale Image Denoising
 
-<p align="center">
-    <img src="figure/3.png" width="100%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/3.PNG" alt="drawing" width="600px"/>
 
 ### Results on Color Image Denoising (MWCNN and PT-MWRN)
 
-<p align="center">
-    <img src="figure/4.png" width="100%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/4.PNG" alt="drawing" width="600px"/>
 
 ## Image denoising for Real-world Noise
 
 
 ### Results on DND dataset
  
-<p align="center">
-    <img src="figure/5.png" width="50%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/5.PNG" alt="drawing" width="600px"/>
 
 ### Results on SIDD dataset 
  
-<p align="center">
-    <img src="figure/6.png" width="50%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/6.PNG" alt="drawing" width="600px"/>
 
 ## Test models
 
