@@ -10,17 +10,11 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 
 ## Network Architecture(MWCNN and MWRN)
 
-<p align="center">
-    <img src="figure/1.png" width="100%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/1.PNG" alt="drawing" width="600px"/>
 
 ## Progressive Training
 
-<p align="center">
-    <img src="figure/2.png" width="100%">
-    <br />    <small>  </small>
-</p>
+<img src="figure/2.PNG" alt="drawing" width="600px"/>
 
 ## Image denoising for Gaussian Noise
 
