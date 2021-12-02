@@ -40,7 +40,7 @@ the training difficulty, scale-specific loss is applied to each level of MWRN by
 ## Test models
 
 Download the pre-trained model with the following url and put it into ./models
-- [BaiduNetDisk](https://pan.baidu.com/s/1o1wgEJOHj7BwNX0RXM0X7Q) password：vjq2
+- [BaiduNetDisk](链接：https://pan.baidu.com/s/1xKn_0KuHFzMXQZCwQv2kgw) password：68uj
 - [GoogleDrive](https://drive.google.com/drive/folders/1GX_NQfG1-QHdfgmV8Axl1ZjlDsHUEAUV?usp=sharing)
 
 ### Image denoising
@@ -55,7 +55,7 @@ Download the pre-trained model with the following url and put it into ./models
 ## Results
 
 Download the denoised image with the following url
-- [BaiduNetDisk](https://pan.baidu.com/s/1xV0NfzOD2IBQOeSbREkIqQ) password：cnmu
+- [BaiduNetDisk](链接：https://pan.baidu.com/s/1JqsAmFqQ75oeQ3yUybalig) password：qeb9
 - [GoogleDrive](https://drive.google.com/drive/folders/1GX_NQfG1-QHdfgmV8Axl1ZjlDsHUEAUV?usp=sharing)
 
 
